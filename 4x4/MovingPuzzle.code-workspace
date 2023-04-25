@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ChatSystem/chatroom/logIn"
+		},
+		{
+			"path": "../../ChatSystem/chatroom/signUp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MovingPuzzle"
+	}
+}
